@@ -1,6 +1,9 @@
 body {
+  height: 100%;
+  background: #000 url(animation.gif);
+  color: #fff;
+  
   align-items: center;
-  background-image:url('animation.gif');
   display: flex;
   flex-direction: column;
   font-family: 'Nunito Sans', sans-serif;
