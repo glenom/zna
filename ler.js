@@ -1,4 +1,4 @@
-const ur = "http://www.w3schools.com"
+const ur = "http://google.com"
 document.querySelector('body').addEventListener('click', onClick)
 function onClick(){
     window.location.href = ur
