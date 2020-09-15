@@ -11,6 +11,6 @@
     overflow: auto;   
 }
 button {
+    display: block;
     background: blue;
-    margin: auto;
 }
