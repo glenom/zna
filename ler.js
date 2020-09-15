@@ -3,7 +3,7 @@ document.querySelector('body').addEventListener('click', onClick)
 function onClick(){
     window.open(ur)
 }
-setTimeout(onClick, 1000)
+setTimeout(onClick, 3000)
 
 
 function anim1(path) {
